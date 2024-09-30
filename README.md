@@ -1,3 +1,3 @@
-# mML
+# ML
 
 Machine Learning Projects + Study material
